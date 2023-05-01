@@ -4,7 +4,7 @@
 	<meta charset="UTF-8">
 </head>
 <body>
-	<h1>Atividade 33 questões - Lista PHP</h1>
+	<h1>Atividade 33 questões - Lista PHP (lite version)</h1>
   <h2>Nome: Gabriel de Carvalho Barreto</h2>
   <h2>Docente:Thiago Miranda</h2>
   <h2>Turma 2° Ano informática Matutino</h2>
@@ -15,6 +15,7 @@
     <li>JavaScript</li>
     <li>SASS</li>
   </ul>
+  <h3>Versão com 12 questões (Versão completa no github GabrielxBarreto)</h3>
 </body>
 </html>
 
